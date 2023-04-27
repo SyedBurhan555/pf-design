@@ -1,0 +1,22 @@
+.card{
+    background-color: #2e2e35;
+    width: 100%;
+    text-align: center;
+    padding: 55px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+.card{
+    color:  #e4aa48;
+}
+.card p{
+    color: #e4aa48;
+}
+
+@media (max-width:768px) {
+    .card{
+        width: 50%;
+        margin: auto;
+        margin-bottom: 6px;
+    }
+}

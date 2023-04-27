@@ -1,0 +1,15 @@
+.common-content{
+    padding-top: 90px;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+}
+.common-content h4{
+    color:  #e4aa48;
+    letter-spacing: 1px;
+    margin: auto;
+}
+.common-content h1{
+    color: #fff;
+    margin: auto;
+}

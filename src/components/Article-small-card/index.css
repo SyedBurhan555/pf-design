@@ -1,0 +1,27 @@
+.article-right-card{
+    display: flex;
+    width: 55%;
+    background-color: #2e2e34;
+    position: relative;
+}
+.article-right-card img{
+    width: 47%;
+}
+.article-right-card div{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.article-right-card h4{
+    color: #fff;
+}
+.article-right-card h4:hover{
+    color: #e4aa48;
+    cursor: pointer;
+}
+
+
+@media (max-width:768px) {
+    .article-right-card,hr{
+        width: 99%;
+    }
+}

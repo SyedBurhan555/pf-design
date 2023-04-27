@@ -1,0 +1,15 @@
+.counter{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        /* padding: 55px; */
+        margin-bottom: 5px;
+        cursor: pointer;
+    }
+    .counter{
+        color:  #e4aa48;
+    }
+    .counter p{
+        color: #fff;
+    }
+    
